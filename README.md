@@ -1,2 +1,3 @@
-# restaurant_project
-All about restaurant project
+# restaurant_app
+
+A new Flutter project.
